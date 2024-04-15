@@ -8,6 +8,7 @@ This is the frontend application of the Recipe Recommendation System, built with
 - [Installation](#installation)
 - [Usage](#usage)
 - [Routes](#routes)
+- [Backend Repository](#backend)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -52,6 +53,10 @@ The frontend application utilizes React Router for routing. Here are the main ro
 2. `/meal`: List of meal types.
 3. `/meal/:mealType`: List of recipes for a specific meal type.
 4. `/meal/:mealType/:mealTypeId`: Details of a specific recipe.
+
+## Backend Repository <a name="backend"></a>
+
+The backend repository for this project can be found at [backend-repo-link](https://github.com/sumit16sharma/recipe-recommendation-system-backend).
 
 ## Contributing <a name="contributing"></a>
 
