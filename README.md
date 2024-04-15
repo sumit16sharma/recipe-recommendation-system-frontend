@@ -1,6 +1,6 @@
 # Recipe Recommendation System Frontend
 
-This is the frontend component of the Recipe Recommendation System, built with React.
+This is the frontend application of the Recipe Recommendation System, built with React.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ This is the frontend component of the Recipe Recommendation System, built with R
 
 ## Introduction <a name="introduction"></a>
 
-The Recipe Recommendation System Frontend is a React application responsible for providing a user interface for interacting with the backend API. It allows users to browse recipes, view recipe details, and receive personalized recommendations.
+The Recipe Recommendation System is a React application responsible for providing a user interface for interacting with the backend API. It allows users to browse recipes, view recipe details, and receive personalized recommendations.
 
 ## Installation <a name="installation"></a>
 
