@@ -2,6 +2,12 @@
 
 This is the frontend application of the Recipe Recommendation System, built with React.
 
+
+
+<div style="text-align:center;">
+    ![recipe_banner](https://github.com/sumit16sharma/recipe-recommendation-system-frontend/assets/73477380/37185b87-97c7-4263-ab36-ec23843a75b8)
+</div>
+
 ## Table of Contents
 
 - [Introduction](#introduction)
